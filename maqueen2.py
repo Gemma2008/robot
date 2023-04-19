@@ -10,6 +10,6 @@ while True:
         robot.set_motor(0,0)
         robot.set_motor(1,0)
     else:
-        robot.set_motor(0,0)
-        robot.set_motor(1,0)
+        robot.set_motor(0,255)
+        robot.set_motor(1,255)
         
